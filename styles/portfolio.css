@@ -185,3 +185,33 @@ main section {
     font-size: 16px;
     font-weight: 400;
 }
+
+.downlood-cv {
+    text-align: center;
+    margin-top: 50px;
+}
+
+/* footer style start  */
+footer {
+    background: #FFF8F3;
+    display: flex;
+    padding: 130px 200px;
+    gap: 100px;
+}
+
+.footer-colamn {
+    width: 50%;
+}
+
+.contact input[type="text"],
+.contact input[type="email"],
+textarea {
+    display: block;
+    margin-bottom: 24px;
+    padding: 18px 30px;
+    width: 100%;
+
+    color: #757575;
+    font-size: 16px;
+    font-weight: 400;
+}
